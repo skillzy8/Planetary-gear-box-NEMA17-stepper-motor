@@ -1,6 +1,8 @@
 A 3D printable planteary Gearbox with a ratio of 25:1.
 <br>
 Designed for DIY robotics used with NEMA17 stepper motor.
+<br>
+Assembly instrustions on the bottom.
 
 <img width="634" height="741" alt="Screenshot 2026-03-16 220128" src="https://github.com/user-attachments/assets/ceef406c-e64d-4695-a3ad-2eacaca8828e" />
 <br>
