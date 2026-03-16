@@ -1,31 +1,30 @@
 A 3D printable planteary Gearbox with a ratio of 25:1.
-
 it is designed for DIY robotics and for a NEMA17 stepper motor.
 
-<img width="634" height="741" alt="Screenshot 2026-03-16 220128" src="https://github.com/user-attachments/assets/ceef406c-e64d-4695-a3ad-2eacaca8828e" />
-<img width="375" height="521" alt="Screenshot 2026-03-16 222813" src="https://github.com/user-attachments/assets/b68a75bf-5e00-4b53-8d13-82fd2637edab" />
-<img width="355" height="527" alt="Screenshot 2026-03-16 222838" src="https://github.com/user-attachments/assets/9cd7ee8b-47b8-4d1f-a741-59780402e73f" />
+<img width="634" height="741" alt="Screenshot 2026-03-16 220128" src="https://github.com/user-attachments/assets/ceef406c-e64d-4695-a3ad-2eacaca8828e" />  
+<img width="375" height="521" alt="Screenshot 2026-03-16 222813" src="https://github.com/user-attachments/assets/b68a75bf-5e00-4b53-8d13-82fd2637edab" />  
+<img width="355" height="527" alt="Screenshot 2026-03-16 222838" src="https://github.com/user-attachments/assets/9cd7ee8b-47b8-4d1f-a741-59780402e73f" />  
 
-Gearbox Specifications: 
-Stages: 2  
-Gear Ratio: 25:1 (5:1 × 5:1)  
-Module: 1  
-Sun Gear Teeth: 12  
-Planet Gear Teeth: 18  
+--------------------------------------
+Gearbox Specifications:   
+Stages: 2    
+Gear Ratio: 25:1 (5:1 × 5:1)    
+Module: 1    
+Sun Gear Teeth: 12   
+Planet Gear Teeth: 18   
 Ring Gear Teeth: 48  
 
-Recommended Motors:
 
-NEMA 17 stepper motor
+Recommended Motors:  
+NEMA 17 stepper motor  
+You can redesign the bottomshell.step to fit your motor size. 
 
-You can redesign the bottomshell.step to fit your motor size.
-
-
-3D Printing Settings:
-Layer Height: 0.2 mm  
-Infill: 15-30% (honestly 15 is enough but no harm in trying 30%)
-Material: PLA but PETG is recommended  
-Supports: tree-default-(angle 30)-remove all overhangs
+--------------------------------------
+3D Printing Settings:  
+Layer Height: 0.2 mm    
+Infill: 15-30% (honestly 15% is enough but no harm in trying 30%)  
+Material: PLA but PETG is recommended    
+Supports: tree-default-(angle 30)-remove all overhangs  
 
 best orinetation is slicer for bottom part:
 
@@ -33,6 +32,15 @@ best orinetation is slicer for bottom part:
 
 <img width="603" height="684" alt="Screenshot 2026-03-16 225510" src="https://github.com/user-attachments/assets/e5747d1b-e94a-4a26-9844-1f5432e0058f" />
 
+
+best orinetation is slicer for Top part:
+
+<img width="788" height="715" alt="Screenshot 2026-03-16 225250" src="https://github.com/user-attachments/assets/ff362d2e-98d0-495c-82dc-08dff88a91b0" />
+
+
+<img width="603" height="684" alt="Screenshot 2026-03-16 225510" src="https://github.com/user-attachments/assets/6fd0a1e2-f05d-4992-9531-5c8a776b7fbe" />
+
+--------------------------------------
 
 Assembly:
 1. Print all parts using 0.2 mm layer height.
